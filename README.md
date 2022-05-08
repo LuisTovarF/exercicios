@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Luis Tovar</h1>
-<h3 align="center">Estudante apaixonado pelo universo de Data Science.</h3>
+<h3 align="center">Estudante apaixonado pelo universo do desenvolvimento de software.</h3>
 
-- 🌱Atualmente estou aprendendo **Python, SQL,EXCEL, Power BI**
+- 🌱Atualmente estou aprendendo JavaScript,HTML,CSS,JAVA,SQL,POWER BI
 
 - 📫Você me acha através do e-mail **jltovarfernandez@gmail.com**
 
